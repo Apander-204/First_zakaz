@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/First_zakaz/static/css/main.b044d37c.css",
+    "main.js": "/First_zakaz/static/js/main.a3f695a0.js",
+    "index.html": "/First_zakaz/index.html",
+    "main.b044d37c.css.map": "/First_zakaz/static/css/main.b044d37c.css.map",
+    "main.a3f695a0.js.map": "/First_zakaz/static/js/main.a3f695a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b044d37c.css",
+    "static/js/main.a3f695a0.js"
+  ]
+}
